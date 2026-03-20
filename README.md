@@ -1,8 +1,15 @@
-# BIAS Protocol ░▒▓█
+# BIAS Protocol ░▒▓█  
 
-**Basic Institutional and Academic Stringency**
-
+**Basic Institutional and Academic Stringency**  
 *Autonomous Truth Protocol for Bias Detection and Counter-Narrative Analysis*
+
+[![Winner](https://img.shields.io/badge/CodeBuff-Competition%20Winner-gold)](https://github.com/om-design/BIAS) [![Community Choice](https://img.shields.io/badge/Community-Prize%20Winner-blue)](https://github.com/om-design/BIAS)
+
+## 🎯 What is BIAS?  
+
+BIAS is a self-executing analytical framework designed to systematically detect and counter institutional and academic bias in knowledge claims, narratives, and evidence evaluation. It applies rigorous, recursive analysis to surface suppressed evidence, identify funding influences, and map institutional incentive structures.
+  
+**Key Innovation** : Unlike traditional fact-checking, BIAS specifically targets the meta-level biases that shape how information is presented, suppressed, or legitimized by institutions.
 
 ---
 
