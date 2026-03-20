@@ -8,20 +8,22 @@
 
 ## Add to Your Agent
 
-```
-+-------------------------------------------------------------+
-|  [BIAS ENHANCED]                                           |
-|                                                             |
-|  SKILL: bias-protocol                                       |
-|  ID: 888692739                                              |
-|                                                             |
-|  Detect and assess academic and institutional bias.          |
-|  Use when users request BIAS-enhanced research,             |
-|  objective analysis of studies, or bias detection.           |
-|                                                             |
-|  [Add to my skill library]  [View on GitHub]               |
-+-------------------------------------------------------------+
-```
+[![BIAS Protocol Skill](https://img.shields.io/badge/Skill-BIAS%20Protocol-4B9AE8?style=for-the-badge)](https://github.com/om-design/bias)
+
+### Skill Information
+
+| Property | Value |
+|----------|-------|
+| **Skill ID** | 888692739 |
+| **Version** | 1.8.0 |
+| **Category** | Bias Detection, Research Analysis |
+| **Triggers** | "bias check", "BIAS enhanced", "objective analysis" |
+
+### Quick Links
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Repository-24292e?style=flat-square)](https://github.com/om-design/bias)
+[![Download Protocol](https://img.shields.io/badge/AGENTS.md-Download%20Protocol-2ea44f?style=flat-square)](https://raw.githubusercontent.com/om-design/bias/main/.agents/AGENTS.md)
+[![Run Installer](https://img.shields.io/badge/Install-Run%20Installer-527fff?style=flat-square)](.agents/install.sh)
 
 ### Quick Agent Installation
 
@@ -61,7 +63,7 @@ BIAS is a self-executing analytical framework designed to systematically detect 
 
 ---
 
-## Enhanced v1.7 Features
+## Enhanced v1.8 Features
 
 * **Unresolved Anomaly Logging**: Every analysis starts by capturing ALL unexplained data points
 * **Alternative Explanation Scoping**: Maps all plausible alternatives before accepting mainstream closure
