@@ -1,0 +1,21 @@
+{
+  "name": "bias-agent",
+  "version": "1.0.0",
+  "description": "BIAS Agent for detecting and analyzing biases and anomalies",
+  "main": "dist/.agents/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bias",
+    "analysis",
+    "agent",
+    "codebuff"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.3.3",
+    "typescript": "^5.9.2"
+  }
+}

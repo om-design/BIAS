@@ -1,0 +1,16 @@
+{
+  "items": [
+    [
+      {
+        "connectionType": "STDIO",
+        "name": "chrome-devtools",
+        "command": "npx",
+        "args": [
+          "chrome-devtools-mcp@latest"
+        ],
+        "cwd": ".",
+        "filePath": "."
+      }
+    ]
+  ]
+}

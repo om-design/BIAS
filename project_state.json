@@ -1,0 +1,16 @@
+{
+  "project_name": "bias",
+  "last_updated": "2026-02-15T16:55:39.680230+00:00",
+  "dsrp": {
+    "distinctions": null,
+    "systems": null,
+    "relationships": null,
+    "perspectives": null
+  },
+  "viability": {
+    "score": null,
+    "confidence": null,
+    "next_best_action": null
+  },
+  "conversation_context": []
+}
